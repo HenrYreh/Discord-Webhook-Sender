@@ -18,6 +18,12 @@ Discord Webhook Sender Solution for single/multiple webhooks sent simultaneously
 
 
 
+https://github.com/HenrYreh/Discord-Webhook-Sender/assets/76663821/1f9537eb-6a2e-4299-a832-adbc958d333c
+
+
+
+
+
 
 
 
