@@ -1,5 +1,5 @@
 # Discord-Webhook-Sender
-Discord Webhook Sender Solution for single/multiple webhooks sent simultaneously using vanilla JavaScript, HTML and CSS.
+Discord Webhook Sender Solution for single/multiple webhooks sent simultaneously using **vanilla JavaScript**, **HTML** and **CSS**.
 
 # Features
 - Send Embeds to single or multiple Discord Webhooks simultaneously
