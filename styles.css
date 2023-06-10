@@ -1,0 +1,83 @@
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+body{
+    background-color: rgb(35, 36, 39);
+    margin: 0px;
+    
+}
+
+.flexbox-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin-top:50px;
+
+}
+
+.listColumn{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(15, 15, 15);
+    border-radius: 10px;
+    width: 600px;
+    color: white;
+
+}
+
+
+.webhookListForm h1{
+    padding-left:15px;
+    
+    
+    
+}
+.input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+
+.webhookList{
+    word-wrap: break-word
+
+}
+
+.webhookList li{
+    list-style-type: none;
+    padding: 15px;
+    border-color: rgb(0, 0, 0);
+    font-size: 15px;
+    padding-left:0px;
+    position: relative;    
+}
+
+.webhookList li .fa-xmark{
+    color: red;
+    top: 50%;
+    right: 10px;
+    transform:translateY(-50%);
+    position: absolute;
+    cursor: pointer
+
+}
+.embed{
+    color: rgb(145, 60, 255);
+    font-size: 15px;
+}
+
+.embed::placeholder{
+    font-size: 20px;
+}
+
+.sendButton{
+    cursor: pointer;
+    width: 90px;
+    height: 40px;
+    font-size: 25px;
+
+}
+
